@@ -4,7 +4,7 @@ AngularJS 是一个非常强大的JavaScript框架。他常被用在单页面应
 
 ## 读者
 
----
+```
 <!doctype html>
 <html ng-app>
    
@@ -23,4 +23,5 @@ AngularJS 是一个非常强大的JavaScript框架。他常被用在单页面应
       
    </body>
 </html>
----
+
+```
